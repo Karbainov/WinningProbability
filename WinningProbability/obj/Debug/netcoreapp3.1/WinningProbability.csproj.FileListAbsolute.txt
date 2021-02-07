@@ -1,0 +1,13 @@
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\bin\Debug\netcoreapp3.1\WinningProbability.exe
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\bin\Debug\netcoreapp3.1\WinningProbability.deps.json
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\bin\Debug\netcoreapp3.1\WinningProbability.runtimeconfig.json
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\bin\Debug\netcoreapp3.1\WinningProbability.runtimeconfig.dev.json
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\bin\Debug\netcoreapp3.1\WinningProbability.dll
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\bin\Debug\netcoreapp3.1\WinningProbability.pdb
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\obj\Debug\netcoreapp3.1\WinningProbability.csprojAssemblyReference.cache
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\obj\Debug\netcoreapp3.1\WinningProbability.AssemblyInfoInputs.cache
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\obj\Debug\netcoreapp3.1\WinningProbability.AssemblyInfo.cs
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\obj\Debug\netcoreapp3.1\WinningProbability.csproj.CoreCompileInputs.cache
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\obj\Debug\netcoreapp3.1\WinningProbability.dll
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\obj\Debug\netcoreapp3.1\WinningProbability.pdb
+C:\Users\KEl_makso\source\repos\WinningProbability\WinningProbability\obj\Debug\netcoreapp3.1\WinningProbability.genruntimeconfig.cache
